@@ -1,6 +1,8 @@
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />  GM. This is Abby  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Girl%20Light%20Skin%20Tone.png" alt="Girl Light Skin Tone" width="40" height="40" /></h1>
 
-I'm a Frontend Engineer & UI/UX Designer based in Taiwan. Feel free to DM me any time.
+Hi there I am Abby, a frontend engineer and UI/UX designer who bridges aesthetics and algorithms. I craft interactive experiences using React, Next.js, and TypeScript, while also experimenting with DeFi protocols, on-chain analytics, and quantitative trading systems in my free time. My workflow often flows between building web apps, refining user journeys, and coding smart contracts in Solidity and Move. 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Feel free to contact me!  abbysuyuyan@gmail.com
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="750">
 <br><br>
