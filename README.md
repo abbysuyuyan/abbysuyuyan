@@ -4,8 +4,7 @@ Hi there I am Abby, a frontend engineer and UI/UX designer who bridges aesthetic
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Feel free to contact me!  abbysuyuyan@gmail.com
 
-<img src="https://github.com/abbysuyuyan/abbysuyuyan/blob/ee6dbd1c2afaf9574d0444f70227a69637c0be11/Aurora%20Studio.svg" width="800">
-<br><br>
+<img src="https://github.com/abbysuyuyan/abbysuyuyan/blob/ee6dbd1c2afaf9574d0444f70227a69637c0be11/Aurora%20Studio.svg" width="800"><br><br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="40" height="40" /> &nbsp;My toolbox
 
@@ -16,8 +15,8 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="600">
-<br><br>
+<img src="https://github.com/abbysuyuyan/abbysuyuyan/blob/main/MacBook%20Air%20(2022).png?raw=true" width="800"><br><br>
+<img src="https://github.com/abbysuyuyan/abbysuyuyan/blob/main/purple.png?raw=true" width="800"><br><br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp;Stats
 
