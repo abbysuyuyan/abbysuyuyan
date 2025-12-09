@@ -2,7 +2,7 @@
 
 Hi there I am Abby, a frontend engineer and UI/UX designer who bridges aesthetics and algorithms. I craft interactive experiences using React, Next.js, and TypeScript, while also experimenting with DeFi protocols, on-chain analytics, and quantitative trading systems in my free time. My workflow often flows between building web apps, refining user journeys, and coding smart contracts in Solidity and Move. 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Feel free to contact me!  abbysuyuyan@gmail.com
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Feel free to contact me!  abby.su@aurora-studio.cc
 
 <img src="https://github.com/abbysuyuyan/abbysuyuyan/blob/ee6dbd1c2afaf9574d0444f70227a69637c0be11/Aurora%20Studio.svg" width="800"><br><br>
 
